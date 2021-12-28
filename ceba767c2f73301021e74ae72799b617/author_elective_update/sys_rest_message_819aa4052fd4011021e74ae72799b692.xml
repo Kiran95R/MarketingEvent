@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="DELETE">
+        <access>package_private</access>
+        <authentication_type>basic</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile display_value="admin">11da2c052fd4011021e74ae72799b612</basic_auth_profile>
+        <basic_auth_user/>
+        <description/>
+        <name>Sync Sales Prospects</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://dev81125.service-now.com/x_724380_kiran_mar_add_sales_prospect.do</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-06 11:40:17</sys_created_on>
+        <sys_id>819aa4052fd4011021e74ae72799b692</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Sync Sales Prospects</sys_name>
+        <sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope>
+        <sys_update_name>sys_rest_message_819aa4052fd4011021e74ae72799b692</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-06 11:41:23</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</application>
+        <file_path/>
+        <instance_id>d85dce4adb3837043050ac44d49619f6</instance_id>
+        <instance_name>dev81125</instance_name>
+        <name>sys_rest_message_819aa4052fd4011021e74ae72799b692</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message"><sys_rest_message action="INSERT_OR_UPDATE"><access>package_private</access><authentication_type>basic</authentication_type><basic_auth_password/><basic_auth_profile display_value="admin">11da2c052fd4011021e74ae72799b612</basic_auth_profile><basic_auth_user/><description/><name>Sync Sales Prospects</name><oauth2_profile/><protocol_name/><rest_endpoint>https://dev81125.service-now.com/x_724380_kiran_mar_add_sales_prospect.do</rest_endpoint><sys_class_name>sys_rest_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-06 11:40:17</sys_created_on><sys_id>819aa4052fd4011021e74ae72799b692</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Sync Sales Prospects</sys_name><sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package><sys_policy/><sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope><sys_update_name>sys_rest_message_819aa4052fd4011021e74ae72799b692</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-06 11:41:23</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mutual_auth>false</use_mutual_auth></sys_rest_message></record_update>]]></payload>
+        <payload_hash>-2090376791</payload_hash>
+        <record_name>Sync Sales Prospects</record_name>
+        <reverted_from/>
+        <source>4aba767c2f73301021e74ae72799b619</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-06 11:41:24</sys_created_on>
+        <sys_id>183be4052fd4011021e74ae72799b66a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d8f8c6aa80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-06 11:41:24</sys_updated_on>
+        <type>REST Message</type>
+        <update_guid>503be405b4d401104b2f586566f4dc6a</update_guid>
+        <update_guid_history>503be405b4d401104b2f586566f4dc6a:-2090376791,ccfa28051ad40110c96fcc3c8a3397ad:352977618</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-06 11:41:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message">sys_rest_message</sys_db_object>
+        <sys_id>003508d0bb494a8280027c94434e4b64</sys_id>
+        <sys_metadata>819aa4052fd4011021e74ae72799b692</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sync Sales Prospects</sys_name>
+        <sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope>
+        <sys_scope_delete display_value="">16d68a7d939e40e68527e6c7f8833324</sys_scope_delete>
+        <sys_update_name>sys_rest_message_819aa4052fd4011021e74ae72799b692</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_819aa4052fd4011021e74ae72799b692">183be4052fd4011021e74ae72799b66a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-06 11:41:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

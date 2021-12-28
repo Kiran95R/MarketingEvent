@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Add Attendees" max_length="40" name="x_724380_kiran_mar_add_attendees" sizeclass="0" type="collection"/>
+</database>

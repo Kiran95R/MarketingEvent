@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_script">
+    <sys_transform_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <map display_value="Add attendees New">b2f0efb82fd0011021e74ae72799b65b</map>
+        <order>100</order>
+        <script><![CDATA[(function runTransformScript(source, map, log, target /*undefined onStart*/ ) {
+	var name = source.u_name.toString();
+	var split_names = name.split(' ');
+	var num_names = split_names.length;
+	if (num_names == 1){
+		target.last_name = split_names[0];
+	}
+	if (num_names == 2){
+		target.first_name = split_names[0];
+		target.last_name = split_names[1];
+	}
+	if(num_names >= 3){
+		target.first_name = split_names.shift();
+		target.last_name = split_names.pop;
+		var middle_name = split_names.join(' ');
+	}
+})(source, map, log, target);]]></script>
+        <sys_class_name>sys_transform_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-06 06:29:53</sys_created_on>
+        <sys_id>b5022ff82fd0011021e74ae72799b6b1</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>onBefore</sys_name>
+        <sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope>
+        <sys_update_name>sys_transform_script_b5022ff82fd0011021e74ae72799b6b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-06 10:26:41</sys_updated_on>
+        <when>onBefore</when>
+    </sys_transform_script>
+</record_update>

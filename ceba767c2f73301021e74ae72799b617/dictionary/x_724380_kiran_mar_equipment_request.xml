@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Equipment Request" max_length="40" name="x_724380_kiran_mar_equipment_request" sizeclass="31" type="collection">
+        <element attributes="encode_utf8=false" label="Caller" max_length="32" name="caller" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Catagory" max_length="32" name="catagory" reference="sc_category" type="reference"/>
+        <element label="Cost" max_length="20" name="cost" type="currency"/>
+        <element label="Marketing Event" max_length="32" name="marketing_event" reference="x_724380_kiran_mar_marketing_event" type="reference"/>
+        <element label="Needed from" max_length="40" name="needed_from" type="glide_date"/>
+        <element label="Needed Until" max_length="40" name="needed_until" type="glide_date"/>
+        <element display="true" label="Type" max_length="40" name="type" type="string"/>
+        <element attributes="encode_utf8=false" label="Vendor" max_length="32" name="vendor" reference="sys_user_group" type="reference"/>
+    </element>
+</database>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_headers">
+    <sys_rest_message_headers action="DELETE">
+        <name>Accept</name>
+        <rest_message display_value="">83bbe4052fd4011021e74ae72799b6d8</rest_message>
+        <sys_class_name>sys_rest_message_headers</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-06 11:46:23</sys_created_on>
+        <sys_id>2c2c64452fd4011021e74ae72799b6fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Accept</sys_name>
+        <sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope>
+        <sys_update_name>sys_rest_message_headers_2c2c64452fd4011021e74ae72799b6fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-06 11:46:23</sys_updated_on>
+        <value>application/json</value>
+    </sys_rest_message_headers>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</application>
+        <file_path/>
+        <instance_id>d85dce4adb3837043050ac44d49619f6</instance_id>
+        <instance_name>dev81125</instance_name>
+        <name>sys_rest_message_headers_2c2c64452fd4011021e74ae72799b6fa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_headers"><sys_rest_message_headers action="INSERT_OR_UPDATE"><name>Accept</name><rest_message display_value="">83bbe4052fd4011021e74ae72799b6d8</rest_message><sys_class_name>sys_rest_message_headers</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-06 11:46:23</sys_created_on><sys_id>2c2c64452fd4011021e74ae72799b6fa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Accept</sys_name><sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package><sys_policy/><sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope><sys_update_name>sys_rest_message_headers_2c2c64452fd4011021e74ae72799b6fa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-06 11:46:23</sys_updated_on><value>application/json</value></sys_rest_message_headers></record_update>]]></payload>
+        <payload_hash>703736922</payload_hash>
+        <record_name>Accept</record_name>
+        <reverted_from/>
+        <source>4aba767c2f73301021e74ae72799b619</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-06 11:46:23</sys_created_on>
+        <sys_id>995c20852fd4011021e74ae72799b6b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d8f90fc4b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-06 11:46:23</sys_updated_on>
+        <type>HTTP Headers</type>
+        <update_guid>d15c20858fd4011073995d8d09613eb6</update_guid>
+        <update_guid_history>d15c20858fd4011073995d8d09613eb6:703736922</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-06 11:59:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_headers">sys_rest_message_headers</sys_db_object>
+        <sys_id>24a2838f4f89414fa18b24ae05148489</sys_id>
+        <sys_metadata>2c2c64452fd4011021e74ae72799b6fa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Accept</sys_name>
+        <sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope>
+        <sys_scope_delete display_value="">16d68a7d939e40e68527e6c7f8833324</sys_scope_delete>
+        <sys_update_name>sys_rest_message_headers_2c2c64452fd4011021e74ae72799b6fa</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_headers_2c2c64452fd4011021e74ae72799b6fa">995c20852fd4011021e74ae72799b6b6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-06 11:59:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

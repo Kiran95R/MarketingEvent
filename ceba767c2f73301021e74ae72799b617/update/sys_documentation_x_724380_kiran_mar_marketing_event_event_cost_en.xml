@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="event_cost" label="Event Cost" language="en" table="x_724380_kiran_mar_marketing_event">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>event_cost</element>
+            <help/>
+            <hint/>
+            <label>Event Cost</label>
+            <language>en</language>
+            <name>x_724380_kiran_mar_marketing_event</name>
+            <plural>Event Costs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-30 05:23:11</sys_created_on>
+            <sys_id>b11b50432f40011021e74ae72799b6c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Event Cost</sys_name>
+            <sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope>
+            <sys_update_name>sys_documentation_x_724380_kiran_mar_marketing_event_event_cost_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-30 05:23:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

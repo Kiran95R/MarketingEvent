@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_list_control">
+    <sys_ui_list_control action="DELETE">
+        <columns_condition/>
+        <disable_nlq>false</disable_nlq>
+        <edit_condition/>
+        <edit_default_filter/>
+        <edit_roles/>
+        <empty_condition/>
+        <filter_condition/>
+        <filter_roles/>
+        <hierarchical_lists>false</hierarchical_lists>
+        <label/>
+        <link_condition/>
+        <link_roles/>
+        <list_edit_insert_row>false</list_edit_insert_row>
+        <list_edit_ref_qual_tag/>
+        <list_edit_type/>
+        <name>x_724380_kiran_mar_marketing_event</name>
+        <new_condition/>
+        <new_roles/>
+        <omit_columns_if_empty>false</omit_columns_if_empty>
+        <omit_count>false</omit_count>
+        <omit_count_views>false</omit_count_views>
+        <omit_count_views_list/>
+        <omit_drilldown_link>false</omit_drilldown_link>
+        <omit_edit_button>true</omit_edit_button>
+        <omit_filters>false</omit_filters>
+        <omit_if_empty>false</omit_if_empty>
+        <omit_links>false</omit_links>
+        <omit_new_button>false</omit_new_button>
+        <related_list/>
+        <sys_class_name>sys_ui_list_control</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-11 08:45:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>112357f02ff3301021e74ae72799b622</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_724380_kiran_mar_marketing_event</sys_name>
+        <sys_overrides display_value="">global</sys_overrides>
+        <sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope>
+        <sys_update_name>sys_ui_list_control_112357f02ff3301021e74ae72799b622</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-11 08:45:44</sys_updated_on>
+    </sys_ui_list_control>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</application>
+        <file_path/>
+        <instance_id>d85dce4adb3837043050ac44d49619f6</instance_id>
+        <instance_name>dev81125</instance_name>
+        <name>sys_ui_list_control_112357f02ff3301021e74ae72799b622</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_list_control"><sys_ui_list_control action="INSERT_OR_UPDATE"><columns_condition/><disable_nlq>false</disable_nlq><edit_condition/><edit_default_filter/><edit_roles/><empty_condition/><filter_condition/><filter_roles/><hierarchical_lists>false</hierarchical_lists><label/><link_condition/><link_roles/><list_edit_insert_row>false</list_edit_insert_row><list_edit_ref_qual_tag/><list_edit_type/><name>x_724380_kiran_mar_marketing_event</name><new_condition/><new_roles/><omit_columns_if_empty>false</omit_columns_if_empty><omit_count>false</omit_count><omit_count_views>false</omit_count_views><omit_count_views_list/><omit_drilldown_link>false</omit_drilldown_link><omit_edit_button>true</omit_edit_button><omit_filters>false</omit_filters><omit_if_empty>false</omit_if_empty><omit_links>false</omit_links><omit_new_button>false</omit_new_button><related_list/><sys_class_name>sys_ui_list_control</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-11 08:45:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>112357f02ff3301021e74ae72799b622</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_724380_kiran_mar_marketing_event</sys_name><sys_overrides display_value="">global</sys_overrides><sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package><sys_policy/><sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope><sys_update_name>sys_ui_list_control_112357f02ff3301021e74ae72799b622</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-11 08:45:44</sys_updated_on></sys_ui_list_control></record_update>]]></payload>
+        <payload_hash>-201442338</payload_hash>
+        <record_name>x_724380_kiran_mar_marketing_event</record_name>
+        <reverted_from/>
+        <source>4aba767c2f73301021e74ae72799b619</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-11 08:45:44</sys_created_on>
+        <sys_id>173397f02ff3301021e74ae72799b658</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d0e2c9b3b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-11 08:45:44</sys_updated_on>
+        <type>List Control</type>
+        <update_guid>5f3397f0f2f33010ba583320176ac057</update_guid>
+        <update_guid_history>5f3397f0f2f33010ba583320176ac057:-201442338</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-11 08:46:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list_control">sys_ui_list_control</sys_db_object>
+        <sys_id>015faa58af0d4f6b800b0dc31721e429</sys_id>
+        <sys_metadata>112357f02ff3301021e74ae72799b622</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_724380_kiran_mar_marketing_event</sys_name>
+        <sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package>
+        <sys_parent display_value="Marketing Event">25da72bc2f73301021e74ae72799b6fd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope>
+        <sys_scope_delete display_value="">16d68a7d939e40e68527e6c7f8833324</sys_scope_delete>
+        <sys_update_name>sys_ui_list_control_112357f02ff3301021e74ae72799b622</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_control_112357f02ff3301021e74ae72799b622">173397f02ff3301021e74ae72799b658</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-11 08:46:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

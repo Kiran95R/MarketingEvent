@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="assigned_developement_group" label="Assigned Developement Group" language="en" table="x_724380_kiran_mar_u_724380_kiran_mar_zprototypes">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>assigned_developement_group</element>
+            <help/>
+            <hint/>
+            <label>Assigned Developement Group</label>
+            <language>en</language>
+            <name>x_724380_kiran_mar_u_724380_kiran_mar_zprototypes</name>
+            <plural>Assigned Developement Groups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 09:19:18</sys_created_on>
+            <sys_id>de64c42c2fc0011021e74ae72799b67e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Assigned Developement Group</sys_name>
+            <sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope>
+            <sys_update_name>sys_documentation_x_724380_kiran_mar_u_724380_kiran_mar_zprototypes_assigned_developement_group_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 09:19:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Kiran Maketing Evengt Add</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_724380_kiran_mar_marketing_event</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-11 07:42:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>35b40f742fb3301021e74ae72799b66b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Kiran Maketing Eveng Add</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope>
+        <sys_update_name>sys_app_module_35b40f742fb3301021e74ae72799b66b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-11 07:42:16</sys_updated_on>
+        <timeline_page/>
+        <title>Kiran Maketing Eveng Add</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</application>
+        <file_path/>
+        <instance_id>d85dce4adb3837043050ac44d49619f6</instance_id>
+        <instance_name>dev81125</instance_name>
+        <name>sys_app_module_35b40f742fb3301021e74ae72799b66b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Kiran Maketing Evengt Add</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_724380_kiran_mar_marketing_event</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-11 07:42:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>35b40f742fb3301021e74ae72799b66b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Kiran Maketing Eveng Add</sys_name><sys_overrides/><sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package><sys_policy/><sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope><sys_update_name>sys_app_module_35b40f742fb3301021e74ae72799b66b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-11 07:42:16</sys_updated_on><timeline_page/><title>Kiran Maketing Eveng Add</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1744228085</payload_hash>
+        <record_name>Kiran Maketing Eveng Add</record_name>
+        <reverted_from/>
+        <source>4aba767c2f73301021e74ae72799b619</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-11 07:42:16</sys_created_on>
+        <sys_id>35b40f742fb3301021e74ae72799b66d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d0df2814a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-11 07:42:16</sys_updated_on>
+        <type>Module</type>
+        <update_guid>7db40f7463b330106102af4b035ea96c</update_guid>
+        <update_guid_history>7db40f7463b330106102af4b035ea96c:-1744228085</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Kiran Maketing Eveng Add">5c2587f42fb3301021e74ae72799b60e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-11 07:44:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>298c9518422344729e7e97cc3a38ebc4</sys_id>
+        <sys_metadata>35b40f742fb3301021e74ae72799b66b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Kiran Maketing Eveng Add</sys_name>
+        <sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope>
+        <sys_scope_delete display_value="">16d68a7d939e40e68527e6c7f8833324</sys_scope_delete>
+        <sys_update_name>sys_app_module_35b40f742fb3301021e74ae72799b66b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_35b40f742fb3301021e74ae72799b66b">35b40f742fb3301021e74ae72799b66d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-11 07:44:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
