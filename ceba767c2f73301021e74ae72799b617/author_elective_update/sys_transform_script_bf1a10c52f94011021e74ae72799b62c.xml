@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_script">
+    <sys_transform_script action="DELETE">
+        <active>true</active>
+        <map display_value="Add attendees New">b2f0efb82fd0011021e74ae72799b65b</map>
+        <order>100</order>
+        <script><![CDATA[(function runTransformScript(source, map, log, target /*undefined onStart*/ ) {
+	var name = source.u_name.toString();
+	var split_names = name.split(' ');
+	var num_names = split_names.length;
+	if (num_names == 1){
+		target.last_name = split_names[0];
+	}
+	if (num_names == 2){
+		target.first_name = split_names[0];
+		target.last_name = split_names[1];
+	}
+	if(num_names >= 3){
+		target.first_name = split_names.shift();
+		target.last_name = split_names.pop;
+		var middle_name = split_names.join(' ');
+	}
+})(source, map, log, target);]]></script>
+        <sys_class_name>sys_transform_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-06 10:26:49</sys_created_on>
+        <sys_id>bf1a10c52f94011021e74ae72799b62c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>onBefore</sys_name>
+        <sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope>
+        <sys_update_name>sys_transform_script_bf1a10c52f94011021e74ae72799b62c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-06 10:26:49</sys_updated_on>
+        <when>onBefore</when>
+    </sys_transform_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</application>
+        <file_path/>
+        <instance_id>d85dce4adb3837043050ac44d49619f6</instance_id>
+        <instance_name>dev81125</instance_name>
+        <name>sys_transform_script_bf1a10c52f94011021e74ae72799b62c</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_script"&gt;&lt;sys_transform_script action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;map display_value="Add attendees New"&gt;b2f0efb82fd0011021e74ae72799b65b&lt;/map&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[(function runTransformScript(source, map, log, target /*undefined onStart*/ ) {
+	var name = source.u_name.toString();
+	var split_names = name.split(' ');
+	var num_names = split_names.length;
+	if (num_names == 1){
+		target.last_name = split_names[0];
+	}
+	if (num_names == 2){
+		target.first_name = split_names[0];
+		target.last_name = split_names[1];
+	}
+	if(num_names &gt;= 3){
+		target.first_name = split_names.shift();
+		target.last_name = split_names.pop;
+		var middle_name = split_names.join(' ');
+	}
+})(source, map, log, target);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_transform_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-12-06 10:26:49&lt;/sys_created_on&gt;&lt;sys_id&gt;bf1a10c52f94011021e74ae72799b62c&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;onBefore&lt;/sys_name&gt;&lt;sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar"&gt;ceba767c2f73301021e74ae72799b617&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Kiran Marketing Event"&gt;ceba767c2f73301021e74ae72799b617&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_script_bf1a10c52f94011021e74ae72799b62c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-12-06 10:26:49&lt;/sys_updated_on&gt;&lt;when&gt;onBefore&lt;/when&gt;&lt;/sys_transform_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1856937448</payload_hash>
+        <record_name>onBefore</record_name>
+        <reverted_from/>
+        <source>4aba767c2f73301021e74ae72799b619</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-06 10:26:49</sys_created_on>
+        <sys_id>3f1a10c52f94011021e74ae72799b62e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d8f4822d00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-06 10:26:49</sys_updated_on>
+        <type>Transform Script</type>
+        <update_guid>771a10c55e940110ab565eb06a572d2e</update_guid>
+        <update_guid_history>771a10c55e940110ab565eb06a572d2e:1856937448</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-06 10:30:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_script">sys_transform_script</sys_db_object>
+        <sys_id>32deed3f233948cca47d3f18057f6e24</sys_id>
+        <sys_metadata>bf1a10c52f94011021e74ae72799b62c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>onBefore</sys_name>
+        <sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package>
+        <sys_parent display_value="Add attendees New">b2f0efb82fd0011021e74ae72799b65b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope>
+        <sys_scope_delete display_value="">16d68a7d939e40e68527e6c7f8833324</sys_scope_delete>
+        <sys_update_name>sys_transform_script_bf1a10c52f94011021e74ae72799b62c</sys_update_name>
+        <sys_update_version display_value="sys_transform_script_bf1a10c52f94011021e74ae72799b62c">3f1a10c52f94011021e74ae72799b62e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-06 10:30:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

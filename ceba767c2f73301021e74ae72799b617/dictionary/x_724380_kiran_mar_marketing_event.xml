@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Marketing Event" max_length="40" name="x_724380_kiran_mar_marketing_event" sizeclass="14" type="collection">
+        <element label="Budget" max_length="20" name="budget" type="currency"/>
+        <element attributes="omit_sys_original=true" label="Budget remaining" max_length="20" name="budget_remaining" read_only="true" type="currency"/>
+        <element choice="3" default="-- New choice --" label="City" max_length="40" name="city" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" sequence="0" value="-- New choice --"/>
+                <element inactive_on_update="false" label="Belur" sequence="0" value="Belur"/>
+                <element inactive_on_update="false" label="Delhi" sequence="0" value="Delhi"/>
+                <element inactive_on_update="false" label="Hassan" sequence="0" value="Hassan"/>
+                <element inactive_on_update="false" label="Noida" sequence="0" value="Noida"/>
+                <element inactive_on_update="false" label="Banglore" sequence="1" value="banglore"/>
+                <element inactive_on_update="false" label="London" sequence="2" value="london"/>
+                <element inactive_on_update="false" label="Hasan" sequence="3" value="hasan"/>
+                <element inactive_on_update="false" label="Mysore" sequence="4" value="mysore"/>
+            </choice>
+        </element>
+        <element label="EndDate" max_length="40" name="enddate" type="glide_date"/>
+        <element attributes="omit_sys_original=true" label="Event Cost" max_length="20" name="event_cost" read_only="true" type="currency"/>
+        <element display="true" label="Name" mandatory="true" max_length="50" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Relatedequipmentcounts" max_length="40" name="relatedequipmentcounts" type="integer"/>
+        <element label="Sponcer" max_length="40" name="sponcer" type="string"/>
+        <element label="StratDate" max_length="40" name="stratdate" type="glide_date"/>
+    </element>
+</database>

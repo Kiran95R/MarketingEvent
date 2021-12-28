@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_ln" label="LN" language="en" table="x_724380_kiran_mar_legacy_attendees">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_ln</element>
+            <help/>
+            <hint/>
+            <label>LN</label>
+            <language>en</language>
+            <name>x_724380_kiran_mar_legacy_attendees</name>
+            <plural>LNs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-24 04:56:49</sys_created_on>
+            <sys_id>b48b150d2f00011021e74ae72799b697</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>LN</sys_name>
+            <sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope>
+            <sys_update_name>sys_documentation_x_724380_kiran_mar_legacy_attendees_u_ln_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-24 04:56:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

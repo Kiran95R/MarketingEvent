@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_name_of_the_event" label="name of the Event" language="en" table="x_724380_kiran_mar_import_prototype_1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_name_of_the_event</element>
+            <help/>
+            <hint/>
+            <label>name of the Event</label>
+            <language>en</language>
+            <name>x_724380_kiran_mar_import_prototype_1</name>
+            <plural>name of the Events</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-23 06:38:57</sys_created_on>
+            <sys_id>8f49a0b82f40011021e74ae72799b6c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>name of the Event</sys_name>
+            <sys_package display_value="Kiran Marketing Event" source="x_724380_kiran_mar">ceba767c2f73301021e74ae72799b617</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Kiran Marketing Event">ceba767c2f73301021e74ae72799b617</sys_scope>
+            <sys_update_name>sys_documentation_x_724380_kiran_mar_import_prototype_1_u_name_of_the_event_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-23 06:38:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

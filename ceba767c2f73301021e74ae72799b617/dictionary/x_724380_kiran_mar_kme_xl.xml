@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="XL_DS_KME" max_length="40" name="x_724380_kiran_mar_kme_xl" sizeclass="0" type="collection">
+        <element attributes="import_attribute_name=budget for the Event" label="budget for the Event" max_length="40" name="u_budget_for_the_event" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=city planned to start" label="city planned to start" max_length="40" name="u_city_planned_to_start" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name of the Event" label="name of the Event" max_length="40" name="u_name_of_the_event" type="string"/>
+    </element>
+</database>

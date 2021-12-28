@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci" label="zPrototypes" max_length="40" name="x_724380_kiran_mar_u_724380_kiran_mar_zprototypes" sizeclass="19" type="collection">
+        <element attributes="encode_utf8=false" label="Assigned Developement Group" max_length="32" name="assigned_developement_group" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="HHD Identifier" max_length="40" name="hhd_identifier" type="string"/>
+        <element attributes="encode_utf8=false" label="Prototype Evangelist" max_length="32" name="prototype_evangelist" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Prototype Notes" max_length="4000" name="prototype_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Prototype Number" max_length="40" name="prototype_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="System Name" max_length="40" name="system_name" type="string"/>
+    </element>
+</database>

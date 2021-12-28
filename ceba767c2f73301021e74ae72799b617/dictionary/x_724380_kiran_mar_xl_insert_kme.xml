@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="DS_KME_XL" max_length="40" name="x_724380_kiran_mar_xl_insert_kme" sizeclass="0" type="collection">
+        <element attributes="import_attribute_name=budget for the Event" label="budget for the Event" max_length="40" name="u_budget_for_the_event" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=city planned to start" label="city planned to start" max_length="40" name="u_city_planned_to_start" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name of the Event" label="name of the Event" max_length="40" name="u_name_of_the_event" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PK&#3;&#4;&#20;&#0;&#8;&#8;&#8;&#0;&#22;»uS&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#24;&#0;&#0;&#0;xl/drawings/drawing1.xml�Ð]nÂ0&#12;&#7;ð&#19;ì&#14;UÞiZ&#24;&#19;C&#20;^ÐN0&#14;à%n&#27;‘�Ê&#14;£Ü~ÑJ6i{&#1;&#30;mË?ùïÍnt¶øDb&#19;|#ê²&#18;&#5;z&#21;´ñ]#&#14;ïo³•(8‚×`ƒÇF\�Ånû´&#25;5­Ï¼§&quot;í{^§²&#17;}ŒÃZJV=:à2&#12;èÓ´" label="PK&#3;&#4;&#20;&#0;&#8;&#8;&#8;&#0;&#22;»uS&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#24;&#0;&#0;&#0;xl/drawings/drawing1.xml�Ð]nÂ0&#12;&#7;ð&#19;ì&#14;UÞiZ&#24;&#19;C&#20;^ÐN0&#14;à" max_length="40" name="u_pk____________œãzjv__à2_èó_" type="string"/>
+    </element>
+</database>
